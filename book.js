@@ -1,3 +1,9 @@
+// script test
+console.log('Hello World!');
+function helloWorld() {
+  alert('Hello World!');
+}
+
 let myLibrary = [];
 
 function Book(title, author, pages, read) {
